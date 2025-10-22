@@ -7,7 +7,7 @@ export const Contact = ({contactRef}) => {
             <div className="md:w-2/2" data-aos="fade-left">
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-center">Contact Me</h2>
                 <p className="text-gray-300 mb-6 text-center">
-                    If you think my background sound interesting. Or if you have any questions. Feel free to reach out to me through any of the platforms under.
+                    If you think my background sounds interesting. Or if you have any questions. Feel free to reach out to me through any of the platforms under.
                     <br /><br />
                     Looking forward to hearing more from you!
                 </p>
